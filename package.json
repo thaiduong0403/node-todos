@@ -1,0 +1,19 @@
+{
+  "name": "node-todos",
+  "version": "1.0.0",
+  "description": "create a node todo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiduong0403/node-todos.git"
+  },
+  "author": "Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiduong0403/node-todos/issues"
+  },
+  "homepage": "https://github.com/thaiduong0403/node-todos#readme"
+}
